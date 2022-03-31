@@ -4,7 +4,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaosanto.s/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-carlos00/)
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCarlos001&show_icons=true&theme=dark)
+![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCarlos001&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlos001)](https://github.com/anuraghazra/github-readme-stats)
 
